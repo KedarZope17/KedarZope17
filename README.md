@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KedarZope
-- 👀 I’m interested in Artificial Intelligence, specifically computer vision, autonomous driving.
+- 👀 I’m interested in application of Artificial Intelligence in using Web Development Technologies
 - 🌱 I’m currently learning machine learning and deep learning.
 - 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me 
